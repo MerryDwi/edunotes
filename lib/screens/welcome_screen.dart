@@ -32,8 +32,7 @@ class WelcomeScreen extends StatelessWidget {
                               fontWeight: FontWeight.w600,
                             )),
                         TextSpan(
-                            text:
-                                '\nEnter personal details to your employee account',
+                            text: '\nSilahkan Pilih Cara Masuk Anda',
                             style: TextStyle(
                               fontSize: 20,
                               // height: 0,
@@ -54,7 +53,7 @@ class WelcomeScreen extends StatelessWidget {
                       buttonText: 'Sign in',
                       onTap: SignInScreen(),
                       color: Colors.transparent,
-                      textColor: Colors.white,
+                      textColor: Color.fromARGB(255, 2, 2, 2),
                     ),
                   ),
                   Expanded(
