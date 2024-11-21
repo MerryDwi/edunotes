@@ -4,7 +4,7 @@ import 'package:edunotes/screens/signup_screen.dart';
 import 'package:edunotes/widgets/custom_scaffold.dart';
 import 'package:edunotes/theme/theme.dart';
 import 'package:edunotes/widgets/welcome_button.dart';
-import 'package:edunotes/screens/forget_password.dart';
+
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
 

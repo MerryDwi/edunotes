@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:edunotes/screens/welcome_screen.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
